@@ -7,6 +7,7 @@ print(“hello, member1’s name”);
 }
 
 function hello2() {
+print("YAN");
 print(“hello, member2’s name”);
 }
 
